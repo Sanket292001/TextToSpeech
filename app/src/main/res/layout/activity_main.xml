@@ -16,7 +16,7 @@
         <EditText
             android:id="@+id/input_text_view"
             android:layout_width="match_parent"
-            android:layout_height="565dp"
+            android:layout_height="350dp"
             android:layout_gravity="center"
             android:layout_margin="25dp"
             android:background="@drawable/input_edit_text_style"
