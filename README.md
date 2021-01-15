@@ -5,3 +5,5 @@ Android application that convert text to speech. Main purpose behind the applica
   <img src="https://github.com/Sanket292001/TextToSpeech/blob/master/App%20Images/Splash%20Screen.jpg?raw=true" height="400"/>
   <img src="https://github.com/Sanket292001/TextToSpeech/blob/master/App%20Images/Homepage.jpg?raw=true" height="400"/>
 </p>
+
+NOTE: Remove TextToSpeech.apk file and App Images folder from the repository before using it.
